@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hstev\\source\\repos\\SalesVehicleItmApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C21CD0F0-84A6-470D-9E35-52BB3655BB2C}|SalesVehicleItmApi\\SalesVehicleItmApi.csproj|c:\\users\\hstev\\source\\repos\\salesvehicleitmapi\\salesvehicleitmapi\\controllers\\agenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21CD0F0-84A6-470D-9E35-52BB3655BB2C}|SalesVehicleItmApi\\SalesVehicleItmApi.csproj|solutionrelative:salesvehicleitmapi\\controllers\\agenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21CD0F0-84A6-470D-9E35-52BB3655BB2C}|SalesVehicleItmApi\\SalesVehicleItmApi.csproj|c:\\users\\hstev\\source\\repos\\salesvehicleitmapi\\salesvehicleitmapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21CD0F0-84A6-470D-9E35-52BB3655BB2C}|SalesVehicleItmApi\\SalesVehicleItmApi.csproj|solutionrelative:salesvehicleitmapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hstev\\source\\repos\\SalesVehicleItmApi\\SalesVehicleItmApi\\Program.cs",
+              "RelativeDocumentMoniker": "SalesVehicleItmApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hstev\\source\\repos\\SalesVehicleItmApi\\SalesVehicleItmApi\\Program.cs",
+              "RelativeToolTip": "SalesVehicleItmApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:27:43.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgenciesController.cs",
+              "DocumentMoniker": "C:\\Users\\hstev\\source\\repos\\SalesVehicleItmApi\\SalesVehicleItmApi\\Controllers\\AgenciesController.cs",
+              "RelativeDocumentMoniker": "SalesVehicleItmApi\\Controllers\\AgenciesController.cs",
+              "ToolTip": "C:\\Users\\hstev\\source\\repos\\SalesVehicleItmApi\\SalesVehicleItmApi\\Controllers\\AgenciesController.cs",
+              "RelativeToolTip": "SalesVehicleItmApi\\Controllers\\AgenciesController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwGAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:22:25.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

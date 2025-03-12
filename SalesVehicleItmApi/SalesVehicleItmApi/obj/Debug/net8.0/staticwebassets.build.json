@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dAomJQgfFSlHM2NV049RvTWmXJnqKV702jXuLIgOuNM=",
+  "Source": "SalesVehicleItmApi",
+  "BasePath": "_content/SalesVehicleItmApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
